@@ -8,8 +8,8 @@
         
 ## How to use
 ```
-git clone https://github.com/ShreedUserBot/shreedqurulum
-cd shreedqurulum
+git clone https://github.com/SubhanHuseynovh/shreedqurulumu
+cd shreedqurulumu
 pip install -r requirements.txt
 python3 -m shreed_installer
 ```
