@@ -3,7 +3,7 @@
   <h1>Auto ShreedUserBot qurulumu</h1>
 </div>
         <a href="https://t.me/ShreedUserBot">SHREEDUSERBOT</a> |
-        termux qurulum: bash <(curl -L https://cutt.ly/7P5PcCt)
+        termux qurulum: bash <(curl -L https://t.ly/XNwP)
         
         
 ## How to use
